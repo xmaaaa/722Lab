@@ -1,5 +1,5 @@
 ### Hello
-This is my INFO722 assignment for Iteration 4 BDAS.
+This is my INFOSYS722 assignment for Iteration 4 BDAS.
 
 It contains four files(code and data sources):
 - BDAS.ipynb
